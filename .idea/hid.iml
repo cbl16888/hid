@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/hid/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hid_windows/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
